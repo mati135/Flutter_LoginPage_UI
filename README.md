@@ -1,16 +1,12 @@
-# loginui
+# Login_UI App
 
-A new Flutter project.
+* Flutter-based login page UI design.  
+* Simple and intuitive user interface elements.  
+* Customizable components for easy integration into applications.  
+* Suitable for beginners and experienced developers seeking a clean login page implementation.  
 
-## Getting Started
+## UI Design
 
-This project is a starting point for a Flutter application.
+![Screenshot 2023-11-10 002854](https://github.com/mati135/Flutter_LoginPage_UI/assets/121723128/513e85d6-6c64-4e9b-b92b-3d37b4e72064)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
